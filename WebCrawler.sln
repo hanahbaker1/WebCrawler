@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "WebCrawler\WebCrawler.csproj", "{31D69C45-E04D-44E1-B2A2-7990437BCD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler.Tests", "WebCrawler.Tests\WebCrawler.Tests.csproj", "{256B2727-61FC-4EEF-8182-A0CD7BFFA314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D69C45-E04D-44E1-B2A2-7990437BCD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D69C45-E04D-44E1-B2A2-7990437BCD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D69C45-E04D-44E1-B2A2-7990437BCD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D69C45-E04D-44E1-B2A2-7990437BCD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256B2727-61FC-4EEF-8182-A0CD7BFFA314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256B2727-61FC-4EEF-8182-A0CD7BFFA314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256B2727-61FC-4EEF-8182-A0CD7BFFA314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256B2727-61FC-4EEF-8182-A0CD7BFFA314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
